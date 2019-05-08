@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: demo
+  data:
+    mongodb:
+      database: webflux
